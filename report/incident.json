@@ -1,0 +1,29 @@
+[
+    {
+        "timestamp": "2026-05-13T21:49:16.399288",
+        "source_ip": "185.220.101.45",
+        "failed_attempts": 7,
+        "attack_type": "Brute Force",
+        "severity": "Medium",
+        "mitre_attack": "T1110 - Brute Force",
+        "recommended_action": "Block IP and investigate"
+    },
+    {
+        "timestamp": "2026-05-13T21:49:16.399788",
+        "source_ip": "103.56.98.22",
+        "failed_attempts": 8,
+        "attack_type": "Brute Force",
+        "severity": "Medium",
+        "mitre_attack": "T1110 - Brute Force",
+        "recommended_action": "Block IP and investigate"
+    },
+    {
+        "timestamp": "2026-05-13T21:49:16.400057",
+        "source_ip": "45.77.65.211",
+        "failed_attempts": 8,
+        "attack_type": "Brute Force",
+        "severity": "Medium",
+        "mitre_attack": "T1110 - Brute Force",
+        "recommended_action": "Block IP and investigate"
+    }
+]
